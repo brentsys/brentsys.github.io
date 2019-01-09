@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the Brentsys developmebt blog site where you will find information on upcoming applications et API documentation
+This is the Brentsys development blog site where you will find information on upcoming applications et API documentation
 
 
 
