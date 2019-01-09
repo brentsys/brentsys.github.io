@@ -12,6 +12,8 @@ Les liens se rapportent essentiellement à des QR codes à flasher via l'appli.
 
 La demande de code PIN qui est demandée par l'application est purement factice. N'importe quel code fera l'affaire.
 
+Les onglets *Map* et *settings* ne sont pas fonctionnels et sont juste des espaces réservés. Ils seront activés pour la prochaine mise à jour.
+
 
 ## Achats licenses
 
