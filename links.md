@@ -10,6 +10,9 @@ Cette page présente quelques liens qui permettront de tester le fonctionnement 
 
 Les liens se rapportent essentiellement à des QR codes à flasher via l'appli.
 
+La demande de code PIN qui est demandée par l'application est purement factice. N'importe quel code fera l'affaire.
+
+
 ## Achats licenses
 
 Opération réussie
