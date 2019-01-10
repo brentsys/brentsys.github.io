@@ -12,7 +12,8 @@ Les liens se rapportent essentiellement à des QR codes à flasher via l'appli.
 
 La demande de code PIN qui est demandée par l'application est purement factice. N'importe quel code fera l'affaire.
 
-Les onglets *Map* et *settings* ne sont pas fonctionnels et sont juste des espaces réservés. Ils seront activés pour la prochaine mise à jour.
+Les onglets *Map* et *settings* ne sont pas fonctionnels et sont juste des espaces réservés. Il e, est de même pour les notifications.
+Ces fonctionnalités seront activées tout au long des prochaines mises à jour.
 
 
 ## Achats licenses
@@ -41,7 +42,7 @@ Valeur :  125 FCFA
 <hr/>
 <hr/>
 
-**Tiket de transport**
+**Ticket de transport**
 Valeur :  12400 FCFA
 
 ![payin/1010

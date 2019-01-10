@@ -10,7 +10,7 @@ This version is available only for registered testers on Google Play: [https://p
 
 You may become a registered tester, by sending your email address at [dev@bretnsys.com](dev@bretnsys.com)
 
-Convenient QRcode are available for testing operations [here](/demolinks/)
+Convenient QRcode are available for testing operations [here](/demoLinks/)
 
 The PIN code requested by the application is purely factitious. Any code will do the trick.
 
