@@ -8,7 +8,7 @@ Les liens se rapportent essentiellement à des QR codes à flasher via l'appli.
 
 Opération réussie
 
-![enter image description here](http://chart.apis.google.com/chart?cht=qr&chs=300x300&chl=prt/XXMRC&chld=H%7C0)
+![enter image description here](http://chart.apis.google.com/chart?cht=qr&chs=300x300&chl=prt/XXMRC&chld=H%7C0)\s\s
 
 #
 
