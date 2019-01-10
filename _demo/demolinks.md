@@ -10,13 +10,20 @@ Opération réussie
 
 ![enter image description here](http://chart.apis.google.com/chart?cht=qr&chs=300x300&chl=prt/XXMRC&chld=H%7C0)
 
-<hr>
+#
+
+#
+
 
 Opération Echouée
 
 ![enter image description here](http://chart.apis.google.com/chart?cht=qr&chs=300x300&chl=prt/DCE01&chld=H%7C0)
-<hr>
-<hr>
+
+
+#
+
+#
+
 
 ## Achats PayIn
 
@@ -27,8 +34,9 @@ Valeur :  125 FCFA
 ![payin/1000
 ](http://chart.apis.google.com/chart?cht=qr&chs=300x300&chl=payin/1000&chld=H%7C0) 
 
-<hr>
+#
 
+#
 
 
 **Faulty PayIn Code**
